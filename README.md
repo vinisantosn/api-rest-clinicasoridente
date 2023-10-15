@@ -32,7 +32,10 @@ Esse projeto foi desenvolvido com base no curso **Santander Bootcamp 2023 - Back
 ### Figma
 
 O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.
-![]()
+
+Veja o modelo que criei:
+
+![](https://github.com/vinisantosn/api-rest-clinicasoridente/blob/main/src/main/images/abstracao-figma-api.png)
 
 ### Diagrama de classes
 ```mermaid
