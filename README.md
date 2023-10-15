@@ -118,11 +118,11 @@ git clone https://github.com/vinisantosn/api-rest-clinicasoridente
 ## 🖼️ Imagens
 |  Resultado  |
 |  ---  |
-|![]()|
+|![](https://github.com/vinisantosn/api-rest-clinicasoridente/blob/main/src/main/images/swagger-ui-result.png)|
 
 ## 🙋🏾‍♂️ Contribuições
 
-Deem uma olhada na [api](api-rest-clinicasoridente-prd.up.railway.app) e faça suas contriuições ou apontamentos.
+Deem uma olhada na [API](https://api-rest-clinicasoridente-prd.up.railway.app/swagger-ui/index.html) e faça suas contriuições ou apontamentos.
 
 Contribuições são sempre bem-vindas! 
 
